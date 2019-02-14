@@ -1,0 +1,80 @@
+01/24/2019 10:45:11 PM: -LoginPage -INFO: Element Found with locator: Login and  locatorType: link
+01/24/2019 10:45:11 PM: -LoginPage -INFO: Clicked on element with locator: Login locatorType: link
+01/24/2019 10:45:24 PM: -LoginPage -INFO: Element Found with locator: user_email and  locatorType: id
+01/24/2019 10:45:24 PM: -LoginPage -INFO: Sent data on element with locator: user_email locatorType: id
+01/24/2019 10:45:24 PM: -LoginPage -INFO: Element Found with locator: user_password and  locatorType: id
+01/24/2019 10:45:24 PM: -LoginPage -INFO: Sent data on element with locator: user_password locatorType: id
+01/24/2019 10:45:24 PM: -LoginPage -INFO: Element Found with locator: commit and  locatorType: name
+01/24/2019 10:45:30 PM: -LoginPage -INFO: Clicked on element with locator: commit locatorType: name
+01/24/2019 10:45:30 PM: -LoginPage -INFO: Element Found with locator: //div[contains(text(),'Invalid email or password')] and  locatorType: xpath
+01/24/2019 10:45:30 PM: -LoginPage -INFO: Element Found
+01/24/2019 10:45:30 PM: -LoginPage -INFO: Element Found with locator: user_email and  locatorType: id
+01/24/2019 10:45:30 PM: -LoginPage -INFO: Element Found with locator: user_password and  locatorType: id
+01/24/2019 10:45:33 PM: -LoginPage -INFO: Element not found with locator: Login and  locatorType: link
+01/24/2019 10:45:33 PM: -LoginPage -INFO: Cannot click on the element with locator: Login locatorType: link
+01/24/2019 10:45:33 PM: -LoginPage -INFO: Element Found with locator: user_email and  locatorType: id
+01/24/2019 10:45:33 PM: -LoginPage -INFO: Sent data on element with locator: user_email locatorType: id
+01/24/2019 10:45:33 PM: -LoginPage -INFO: Element Found with locator: user_password and  locatorType: id
+01/24/2019 10:45:33 PM: -LoginPage -INFO: Sent data on element with locator: user_password locatorType: id
+01/24/2019 10:45:33 PM: -LoginPage -INFO: Element Found with locator: commit and  locatorType: name
+01/24/2019 10:45:44 PM: -LoginPage -INFO: Clicked on element with locator: commit locatorType: name
+01/24/2019 10:45:44 PM: -TestStatus -INFO: ### VERIFICATION FAILED :: + Title Verification
+01/24/2019 10:45:44 PM: -TestStatus -INFO: Screenshot save to directory /home/bappi/Documents/workspace_python/Automation_framework/screenshots/Title Verification.1548348344762.png
+01/24/2019 10:45:44 PM: -LoginPage -INFO: Element Found with locator: gravatar and  locatorType: class
+01/24/2019 10:45:44 PM: -LoginPage -INFO: Element Found
+01/24/2019 10:45:44 PM: -TestStatus -INFO: ### VERIFICATION PASSED :: + Login Verification
+01/24/2019 10:45:44 PM: -TestStatus -ERROR: test_lets kode it ### TEST FAILED
+01/25/2019 04:52:31 PM: -LoginPage -INFO: Element Found with locator: Login and  locatorType: link
+01/25/2019 04:52:31 PM: -LoginPage -INFO: Clicked on element with locator: Login locatorType: link
+01/25/2019 04:53:13 PM: -LoginPage -INFO: Element Found with locator: user_email and  locatorType: id
+01/25/2019 04:53:13 PM: -LoginPage -INFO: Sent data on element with locator: user_email locatorType: id
+01/25/2019 04:53:13 PM: -LoginPage -INFO: Element Found with locator: user_password and  locatorType: id
+01/25/2019 04:53:13 PM: -LoginPage -INFO: Sent data on element with locator: user_password locatorType: id
+01/25/2019 04:53:14 PM: -LoginPage -INFO: Element Found with locator: commit and  locatorType: name
+01/25/2019 04:53:29 PM: -LoginPage -INFO: Clicked on element with locator: commit locatorType: name
+01/25/2019 04:53:29 PM: -LoginPage -INFO: Element Found with locator: //div[contains(text(),'Invalid email or password')] and  locatorType: xpath
+01/25/2019 04:53:29 PM: -LoginPage -INFO: Element Found
+01/25/2019 04:53:29 PM: -LoginPage -INFO: Element Found with locator: user_email and  locatorType: id
+01/25/2019 04:53:29 PM: -LoginPage -INFO: Element Found with locator: user_password and  locatorType: id
+01/25/2019 04:53:32 PM: -LoginPage -INFO: Element not found with locator: Login and  locatorType: link
+01/25/2019 04:53:32 PM: -LoginPage -INFO: Cannot click on the element with locator: Login locatorType: link
+01/25/2019 04:53:32 PM: -LoginPage -INFO: Element Found with locator: user_email and  locatorType: id
+01/25/2019 04:53:33 PM: -LoginPage -INFO: Sent data on element with locator: user_email locatorType: id
+01/25/2019 04:53:33 PM: -LoginPage -INFO: Element Found with locator: user_password and  locatorType: id
+01/25/2019 04:53:33 PM: -LoginPage -INFO: Sent data on element with locator: user_password locatorType: id
+01/25/2019 04:53:33 PM: -LoginPage -INFO: Element Found with locator: commit and  locatorType: name
+01/25/2019 04:53:55 PM: -LoginPage -INFO: Clicked on element with locator: commit locatorType: name
+01/25/2019 04:53:55 PM: -LoginPage -ERROR: Failed to get page title
+01/25/2019 04:53:55 PM: -TestStatus -INFO: ### VERIFICATION FAILED :: + Title Verification
+01/25/2019 04:53:55 PM: -TestStatus -INFO: Screenshot save to directory /home/bappi/Documents/workspace_python/Automation_framework/screenshots/Title Verification.1548413635784.png
+01/25/2019 04:53:55 PM: -LoginPage -INFO: Element Found with locator: gravatar and  locatorType: class
+01/25/2019 04:53:55 PM: -LoginPage -INFO: Element Found
+01/25/2019 04:53:55 PM: -TestStatus -INFO: ### VERIFICATION PASSED :: + Login Verification
+01/25/2019 04:53:55 PM: -TestStatus -ERROR: test_lets kode it ### TEST FAILED
+01/26/2019 10:03:15 PM: -LoginPage -INFO: Element Found with locator: Login and  locatorType: link
+01/26/2019 10:03:16 PM: -LoginPage -INFO: Clicked on element with locator: Login locatorType: link
+01/26/2019 10:03:43 PM: -LoginPage -INFO: Element Found with locator: user_email and  locatorType: id
+01/26/2019 10:03:43 PM: -LoginPage -INFO: Sent data on element with locator: user_email locatorType: id
+01/26/2019 10:03:43 PM: -LoginPage -INFO: Element Found with locator: user_password and  locatorType: id
+01/26/2019 10:03:43 PM: -LoginPage -INFO: Sent data on element with locator: user_password locatorType: id
+01/26/2019 10:03:43 PM: -LoginPage -INFO: Element Found with locator: commit and  locatorType: name
+01/26/2019 10:04:20 PM: -LoginPage -INFO: Clicked on element with locator: commit locatorType: name
+01/26/2019 10:04:20 PM: -LoginPage -INFO: Element Found with locator: //div[contains(text(),'Invalid email or password')] and  locatorType: xpath
+01/26/2019 10:04:20 PM: -LoginPage -INFO: Element Found
+01/26/2019 10:04:20 PM: -LoginPage -INFO: Element Found with locator: user_email and  locatorType: id
+01/26/2019 10:04:20 PM: -LoginPage -INFO: Element Found with locator: user_password and  locatorType: id
+01/26/2019 10:04:23 PM: -LoginPage -INFO: Element not found with locator: Login and  locatorType: link
+01/26/2019 10:04:23 PM: -LoginPage -INFO: Cannot click on the element with locator: Login locatorType: link
+01/26/2019 10:04:23 PM: -LoginPage -INFO: Element Found with locator: user_email and  locatorType: id
+01/26/2019 10:04:23 PM: -LoginPage -INFO: Sent data on element with locator: user_email locatorType: id
+01/26/2019 10:04:23 PM: -LoginPage -INFO: Element Found with locator: user_password and  locatorType: id
+01/26/2019 10:04:23 PM: -LoginPage -INFO: Sent data on element with locator: user_password locatorType: id
+01/26/2019 10:04:23 PM: -LoginPage -INFO: Element Found with locator: commit and  locatorType: name
+01/26/2019 10:04:56 PM: -LoginPage -INFO: Clicked on element with locator: commit locatorType: name
+01/26/2019 10:04:56 PM: -LoginPage -ERROR: Failed to get pages title
+01/26/2019 10:04:56 PM: -TestStatus -INFO: ### VERIFICATION FAILED :: + Title Verification
+01/26/2019 10:04:56 PM: -TestStatus -INFO: Screenshot save to directory /home/bappi/Documents/workspace_python/Automation_framework/screenshots/Title Verification.1548518696798.png
+01/26/2019 10:04:57 PM: -LoginPage -INFO: Element Found with locator: gravatar and  locatorType: class
+01/26/2019 10:04:57 PM: -LoginPage -INFO: Element Found
+01/26/2019 10:04:57 PM: -TestStatus -INFO: ### VERIFICATION PASSED :: + Login Verification
+01/26/2019 10:04:57 PM: -TestStatus -ERROR: test_lets kode it ### TEST FAILED
